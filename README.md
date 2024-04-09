@@ -2,7 +2,7 @@
 
 A college project containig range of features.
 
-##Features:
+## Features:
 > - Personal file management: view, add and delete files
 > - Search tool: string based searching for contents inside files and show matching files and content
 > - To-do List
