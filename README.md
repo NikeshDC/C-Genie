@@ -1,6 +1,6 @@
 ## C++ Genie
 
-A college project containig range of features.
+A college project for C++ and OOP containig range of features.
 
 ## Features:
 > - Personal file management: view, add and delete files
